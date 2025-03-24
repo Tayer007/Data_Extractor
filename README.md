@@ -2,7 +2,7 @@
 
 A powerful tool for extracting text, tables, and images from PDF documents, Word files, and PowerPoint presentations.
 
-![Document Data Extractor Screenshot](screenshots/main-interface.png)
+![Document Data Extractor Screenshot](main-interface.png)
 
 ## Features
 
