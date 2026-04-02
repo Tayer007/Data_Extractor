@@ -29,7 +29,7 @@ A powerful tool for extracting text, tables, and images from PDF documents, Word
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/document-data-extractor.git
+   git clone https://github.com/tayer007/document-data-extractor.git
    cd document-data-extractor
    ```
 
